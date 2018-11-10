@@ -13,7 +13,7 @@
 
 ## Installation
 
-* `git clone https://github.com/niyogakiza/graphql-apollo-node/`
+* `git clone https://github.com/niyogakiza/graphql-apollo-node.git`
 * `cd node-babel-server`
 * `npm install`
 * `npm start`
